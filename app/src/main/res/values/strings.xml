@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SportsInteractiveAssessmentTest</string>
+    <string name="a_vs_b">A vs B</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="player_name">player name</string>
+    <string name="players">Players</string>
+</resources>
